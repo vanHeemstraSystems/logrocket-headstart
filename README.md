@@ -33,5 +33,11 @@ import LogRocket from 'logrocket';
 LogRocket.init('ivpqfp/myfirstproject');
 ```
 
+# 200 - Dashboard
+
+Go to the Dashboard, here https://app.logrocket.com/ivpqfp/myfirstproject/
+
+To start using LogRocket, check out the [setup guide](https://app.logrocket.com/ivpqfp/myfirstproject/settings/setup) for detailed instructions.
+
 
 
