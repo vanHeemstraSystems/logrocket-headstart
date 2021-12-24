@@ -20,13 +20,13 @@ Our SDKs enable us to capture data from your application. No matter what framewo
 
 Using NPM
 
-1. Install thelogrocketmodule via NPM:
+1. Install the ```logrocket``` module via NPM:
 
 ```
 npm i --save logrocket
 ```
 
-2. Import LogRocket and callLogRocket.init like so:
+2. Import ```LogRocket``` and call ```LogRocket.init``` like so:
 
 ```
 import LogRocket from 'logrocket';
