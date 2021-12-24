@@ -3,6 +3,8 @@ logrocket-headstart
 
 Based on "LogRocket Quickstart" at https://app.logrocket.com/quickstart
 
+LogRocket helps you understand problems affecting your users, so that you can get back to building great software.
+
 # 100 - Create Account
 
 e.g. User Email: wvanheemstra@icloud.com
